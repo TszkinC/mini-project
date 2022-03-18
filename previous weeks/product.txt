@@ -1,0 +1,7 @@
+water
+panini
+sandwich
+tea
+coke_zero
+juice
+pasta
